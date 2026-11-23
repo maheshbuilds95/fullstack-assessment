@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+input,
+select,
+textarea,
+button {
+  display: block;
+  margin: 6px 0;
+  padding: 6px;
+}
+.box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+.error {
+  color: red;
+}
